@@ -1,2 +1,2 @@
-# Leet-Code
-repo for optimized leetcode solutions.
+# Leet-Code-Solutions
+Repo for optimized leetcode solutions.
